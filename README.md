@@ -1,4 +1,4 @@
-# Claude Code HTML Skill
+#  HTML Skill
 
 > English version: [README.en.md](README.en.md)
 

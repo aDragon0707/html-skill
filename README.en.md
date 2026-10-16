@@ -1,8 +1,8 @@
-# Claude Code HTML Skill
+#  HTML Skill
 
 Chinese version: [README.md](README.md)
 
-A local Codex / Claude Code skill for turning complex project work into **readable, interactive, exportable** single-file HTML artifacts while keeping Markdown / Obsidian as the long-term source of truth.
+A local  skill for turning complex project work into **readable, interactive, exportable** single-file HTML artifacts while keeping Markdown / Obsidian as the long-term source of truth.
 
 It is inspired by Anthropic's article [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html), the official example gallery [anthropics/html-effectiveness](https://github.com/anthropics/html-effectiveness), and the community `html-artifacts` skill pattern.
 

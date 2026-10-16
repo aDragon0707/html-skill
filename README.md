@@ -2,7 +2,7 @@
 
 > English version: [README.en.md](README.en.md)
 
-一个面向 Codex / Claude Code 的本地 skill：把复杂项目工作变成 **可读、可操作、可导出** 的单文件 HTML artifact，同时保留 Markdown / Obsidian 作为长期 source of truth。
+把复杂项目工作变成 **可读、可操作、可导出** 的单文件 HTML artifact，同时保留 Markdown / Obsidian 作为长期 source of truth。
 
 它受 Anthropic 官方文章 [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html) 和官方示例仓库 [anthropics/html-effectiveness](https://github.com/anthropics/html-effectiveness) 启发，并融合了社区 `html-artifacts` skill 的结构思路。
 
